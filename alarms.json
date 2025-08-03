@@ -1,0 +1,30 @@
+[
+    {
+        "active": true,
+        "days": [
+            "Sun"
+        ],
+        "name": "sid",
+        "snooze": true,
+        "task": "Math Task",
+        "time": "05:09 PM"
+    },
+    {
+        "active": true,
+        "days": [
+            "Sun"
+        ],
+        "name": "sid",
+        "task": "Motivational Phrase",
+        "time": "05:12 PM"
+    },
+    {
+        "active": true,
+        "days": [
+            "Sun"
+        ],
+        "name": "break",
+        "task": "Random Wellness Prompt",
+        "time": "05:17 PM"
+    }
+]
